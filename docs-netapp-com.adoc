@@ -1,0 +1,43 @@
+---
+sidebar: sidebar 
+permalink: docs-netapp-com.html 
+keywords:  
+summary:  
+---
+= Circa docs.netapp.com siti
+:toc: macro
+:hardbreaks:
+:toclevels: 1
+:allow-uri-read: 
+:toc: 
+:toclevels: 1
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+:toc-position: content
+
+
+.Visita del sito
+video::77a636ba-4202-45bb-9e47-b08a01138502[panopto]
+.Trascrizione
+[%collapsible]
+====
+&#91;0:01&#93;:: Ciao. Questo è ben del team docs.netapp.com. In questo video, esamineremo le funzioni e le funzioni disponibili su docs.netapp.com per aiutarti a ottenere il massimo dalla tua esperienza di visualizzazione dei contenuti.
+&#91;0:12&#93;:: Iniziamo con la ricerca del contenuto che state cercando. Una volta inserito un sito di documentazione, è possibile utilizzare il lato sinistro del sito per navigare.
+&#91;0:20&#93;:: Se sono disponibili più versioni della documentazione, è possibile selezionare la documentazione relativa alla versione del prodotto in uso.
+&#91;0:28&#93;:: Utilizza la casella di ricerca per trovare il contenuto all'interno di un sito di documentazione. Ad esempio, vorrei scoprire come funziona la crittografia dei volumi.
+&#91;0:36&#93;:: Se si preferisce sfogliare i documenti, è possibile utilizzare il sommario, che è organizzato in raggruppamenti logici come la guida introduttiva e l'utilizzo del prodotto.
+&#91;0:45&#93;:: Se si desidera accedere a un altro sito di documentazione, è possibile utilizzare le breadcrumb per spostarsi all'interno di docs.netapp.com.
+&#91;0:50&#93;:: Una volta trovato il contenuto che stai cercando, sono disponibili alcune funzionalità chiave che ti aiuteranno a interagire con il contenuto.
+&#91;0:58&#93;:: La maggior parte dei siti di documentazione sono disponibili in diverse lingue, in modo da poter leggere i documenti nella lingua desiderata.
+&#91;1:05&#93;:: Se una pagina contiene più sezioni, è possibile utilizzare i collegamenti "in questa pagina" per accedere direttamente al contenuto che si sta cercando. I collegamenti identificano inoltre la posizione della pagina, che può aiutare a seguirla mentre si scorre.
+&#91;1:20&#93;:: Per mettere a fuoco appena sul soddisfare in se, potete comprimere le barre laterali di sinistra e di destra. Al termine, espanderli per visualizzare nuovamente i controlli di navigazione.
+&#91;1:33&#93;:: Se è necessario leggere i documenti offline, è possibile scaricare un PDF dell'intero sito della documentazione o di singole sezioni all'interno del sito.
+&#91;1:41&#93;:: La documentazione di NetApp è open source e progettata per consentire il contributo della comunità utilizzando un account GitHub. Invia il tuo feedback per richiedere un aggiornamento della documentazione o modificare direttamente il contenuto, che viene inviato a un responsabile dei contenuti NetApp prima dell'Unione.
+&#91;1:59&#93;:: Sui siti di documentazione per alcuni dei nostri servizi cloud, potresti vedere un'opzione di cloud provider che ti consente di filtrare i documenti per uno specifico cloud provider. Ad esempio, se si seleziona Microsoft Azure, vengono visualizzati solo i contenuti validi per Azure. I contenuti per altri provider cloud non verranno visualizzati.
+&#91;2:18&#93;:: Poiché potreste accedere ai nostri contenuti da un tablet, da un dispositivo mobile o da un desktop, utilizziamo un layout reattivo per garantire che i nostri documenti sembrino buoni su qualsiasi dispositivo.
+&#91;2:28&#93;:: E questo è tutto. Ci auguriamo che queste funzionalità siano di tuo gradimento e ti ringraziamo per aver scelto di far parte della nostra community di contenuti.
+
+
+====
