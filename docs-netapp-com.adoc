@@ -5,17 +5,14 @@ keywords:
 summary:  
 ---
 = Circa docs.netapp.com siti
-:toc: macro
 :hardbreaks:
 :toclevels: 1
 :allow-uri-read: 
-:toc: 
 :toclevels: 1
 :nofooter: 
 :icons: font
 :linkattrs: 
 :imagesdir: ./media/
-:toc-position: content
 
 
 .Visita del sito
