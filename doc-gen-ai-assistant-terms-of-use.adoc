@@ -1,0 +1,34 @@
+---
+sidebar: sidebar 
+permalink: doc-gen-ai-assistant-terms-of-use.html 
+keywords:  
+summary: 'DOC è il nostro assistente generativo basato sull"intelligenza artificiale su docs.netapp.com. DOC è progettato per rispondere alle domande sui prodotti NetApp, utilizzando contenuti pubblicati su docs.NetApp.com. Ad esempio, Doc può rispondere a domande sulle funzionalità di efficienza dello storage NetApp o sulle Best practice di backup e recovery per ambienti multi-cloud.' 
+---
+= Termini di utilizzo degli assistenti generativi basati su ai di NetApp
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+DOC è il nostro assistente generativo basato sull'intelligenza artificiale su docs.netapp.com. DOC è progettato per rispondere alle domande sui prodotti NetApp, utilizzando contenuti pubblicati su docs.NetApp.com. Ad esempio, Doc può rispondere a domande sulle funzionalità di efficienza dello storage NetApp o sulle Best practice di backup e recovery per ambienti multi-cloud.
+
+Questa versione Beta di Doc crea contenuti generati algoritmicamente che potrebbero contenere errori o imprecisioni. Tutti i contenuti generati devono essere utilizzati solo come punto di partenza. Devi sempre verificare le risposte del documento facendo riferimento alla documentazione ufficiale di prodotto di NetApp. Qualsiasi dipendenza dalle risposte generate dal documento è a vostro rischio e NetApp non è responsabile di eventuali problemi o difficoltà che possono verificarsi utilizzando esclusivamente le risposte generate dal documento.
+
+
+
+== Condizioni
+
+Utilizzando Doc, l'utente accetta di rispettare le seguenti regole e condizioni durante la generazione di contenuti e risposte. Il mancato rispetto di questi termini può comportare il blocco dell'utilizzo del documento.
+
+* Non tentare di utilizzare Doc per produrre contenuti che potrebbero causare danni, abuso, violenza o inganno.
+* Non tentare di avviare un documento in conversazioni che esulano dall'ambito del suo scopo previsto o di ottenere risposte a domande che non riguardano i prodotti NetApp.
+
+
+
+
+== Feedback
+
+Stiamo lavorando per migliorare continuamente il documento. Inviaci un feedback nella finestra di chat del Doc. Facci sapere se le risposte del Doc sono accurate e utili o se sono incomplete o in qualche modo insufficienti. Puoi anche inviare un messaggio e-mail:ng-doccoments@netapp.com[contattaci] in caso di domande o dubbi riguardanti le capacità o le risposte del documento.
