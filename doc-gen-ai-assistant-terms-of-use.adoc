@@ -31,4 +31,4 @@ Utilizzando Doc, l'utente accetta di rispettare le seguenti regole e condizioni 
 
 == Feedback
 
-Stiamo lavorando per migliorare continuamente il documento. Inviaci un feedback nella finestra di chat del Doc. Facci sapere se le risposte del Doc sono accurate e utili o se sono incomplete o in qualche modo insufficienti. Puoi anche inviare un messaggio e-mail:ng-doccoments@netapp.com[contattaci] in caso di domande o dubbi riguardanti le capacità o le risposte del documento.
+Stiamo lavorando per migliorare continuamente il documento. Inviaci un feedback nella finestra di chat del Doc. Facci sapere se le risposte del Doc sono accurate e utili o se sono incomplete o in qualche modo insufficienti. Puoi anche mailto:ng-doccomments@NetApp.com[contattaci] in caso di domande o dubbi riguardanti le capacità o le risposte del documento.
