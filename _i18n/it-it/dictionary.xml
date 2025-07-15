@@ -72,8 +72,6 @@
   <block id="78d84dc38711d923fa1dc1351e7e5a90" category="section-title">Ambito e limitazioni</block>
   <block id="e02e8d81102c18e5ac8688f45881ccb4" category="paragraph">DOC può rispondere solo alle domande in base a contenuti selezionati pubblicati su docs.NetApp.com.</block>
   <block id="ac9a966db57853c0bb3b03769804fffe" category="admonition">Durante questa fase beta, Doc non è addestrato su tutti i contenuti docs.NetApp.com. DOC può rispondere a domande su contenuti quali, a titolo esemplificativo ma non esaustivo, contenuti ONTAP, BlueXP , StorageGRID, Keystone e SnapCenter. Se hai bisogno di informazioni Doc non ha, facci sapere.</block>
-  <block id="5cce09c2cd6acff384726d4c5913b10a" category="list-text">Se non si specifica una versione del prodotto, Doc risponde alle domande in base all'ultima versione pubblicata. Se necessario, è possibile specificare una versione precedente nella domanda.</block>
-  <block id="ba2e07590de589acb6827cadda0ba814" category="list-text">DOC non sa su quale pagina ti trovi quando fai una domanda. Per ottenere risultati ottimali, è necessario specificare i nomi e le versioni dei prodotti.</block>
   <block id="d3aab3cd74c1c5868499ccc53ebe0a75" category="list-text">DOC può chattare in lingue supportate su docs.NetApp.com, ma non è addestrato su versioni non in inglese.</block>
   <block id="e4a95039ccdfb7b85c839ab71de68d99" category="section-title">Scrittura di prompt validi</block>
   <block id="b0d6ece087301f0de0e69fb8d2e2b5ec" category="paragraph">Seguite questi suggerimenti per la migliore esperienza con Doc.</block>
@@ -98,4 +96,6 @@
   <block id="e10d7022bccbf44b070810cd5909184e" category="list-text">Cancellare la cronologia chat</block>
   <block id="3508984ba8ee3276c733e57293128c50" category="list-text">Se si desidera modificare gli argomenti, cancellare la chat all'inizio. Poiché Doc ricorda le domande precedenti, le modifiche degli argomenti possono produrre risultati imprevisti.</block>
   <block id="5ac85d6acb2d0e353a29dbf8a61e4a47" category="paragraph">Il tuo feedback ci aiuta a migliorare la risposta di Doc. Utilizza lo strumento di feedback nella finestra della chat del documento per farci sapere se le risposte sono accurate e utili o se hanno bisogno di miglioramenti. Puoi anche mailto:ng-doccomments@NetApp.com[contattaci] con domande o feedback.</block>
+  <block id="430fdc9d9149c8cc43c466b7320e92b9" category="list-text">Doc risponde alle domande basandosi esclusivamente sull'ultima versione pubblicata di un prodotto. Ad esempio, se è disponibile documentazione per la versione 1.0 e la versione 2.0 di un prodotto, Doc fa riferimento solo alla documentazione 2.0 più recente.</block>
+  <block id="9f1b245deb3e474f47cde2de8fa217be" category="list-text">Per risultati ottimali, sii sempre specifico con i nomi dei prodotti. Doc sa a quale pagina ti trovi quando poni una domanda, ma è solo uno dei diversi fattori che Doc prende in considerazione quando formula una risposta.</block>
 </blocks>

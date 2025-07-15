@@ -26,8 +26,8 @@ DOC può rispondere solo alle domande in base a contenuti selezionati pubblicati
 
 NOTE: Durante questa fase beta, Doc non è addestrato su tutti i contenuti docs.NetApp.com. DOC può rispondere a domande su contenuti quali, a titolo esemplificativo ma non esaustivo, contenuti ONTAP, BlueXP , StorageGRID, Keystone e SnapCenter. Se hai bisogno di informazioni Doc non ha, facci sapere.
 
-* Se non si specifica una versione del prodotto, Doc risponde alle domande in base all'ultima versione pubblicata. Se necessario, è possibile specificare una versione precedente nella domanda.
-* DOC non sa su quale pagina ti trovi quando fai una domanda. Per ottenere risultati ottimali, è necessario specificare i nomi e le versioni dei prodotti.
+* Doc risponde alle domande basandosi esclusivamente sull'ultima versione pubblicata di un prodotto. Ad esempio, se è disponibile documentazione per la versione 1.0 e la versione 2.0 di un prodotto, Doc fa riferimento solo alla documentazione 2.0 più recente.
+* Per risultati ottimali, sii sempre specifico con i nomi dei prodotti. Doc sa a quale pagina ti trovi quando poni una domanda, ma è solo uno dei diversi fattori che Doc prende in considerazione quando formula una risposta.
 * DOC può chattare in lingue supportate su docs.NetApp.com, ma non è addestrato su versioni non in inglese.
 
 
