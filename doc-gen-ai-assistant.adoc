@@ -23,9 +23,6 @@ DOC può creare risposte da domande precedenti, suggerire domande aggiuntive e s
 
 DOC può rispondere solo alle domande in base a contenuti selezionati pubblicati su docs.NetApp.com.
 
-
-NOTE: Durante la fase Beta, Doc utilizza la maggior parte, ma non tutti i contenuti pubblicati su docs.netapp.com per rispondere alle domande.  Doc ha familiarità con tutta la documentazione ONTAP, NetApp Console, StorageGRID, E-Series, Keystone e SnapCenter e la utilizza per rispondere alle domande su questi prodotti.  D'altro canto, Doc non ha familiarità con la documentazione di alcuni prodotti legacy.  Ad esempio, Doc non utilizza SnapDrive for UNIX per fornire risposte.  Durante la versione Beta, stiamo lavorando per perfezionare le conoscenze di Doc.  Se hai bisogno di informazioni che Doc non ha, scrivi a mailto:ng-doccomments@netapp.com[faccelo sapere].
-
 * Doc risponde alle domande basandosi esclusivamente sull'ultima versione pubblicata di un prodotto. Ad esempio, se è disponibile documentazione per la versione 1.0 e la versione 2.0 di un prodotto, Doc fa riferimento solo alla documentazione 2.0 più recente.
 * Per risultati ottimali, sii sempre specifico con i nomi dei prodotti. Doc sa a quale pagina ti trovi quando poni una domanda, ma è solo uno dei diversi fattori che Doc prende in considerazione quando formula una risposta.
 * DOC può chattare in lingue supportate su docs.NetApp.com, ma non è addestrato su versioni non in inglese.
